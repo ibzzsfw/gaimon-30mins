@@ -1,0 +1,24 @@
+{
+	"ID" : "leaveform",
+	"name" : "LeaveForm",
+	"version" : "1.0",
+	"require" : [],
+	"role" : [],
+	"backend" : {
+		"script" : [
+			"LeaveForm.js"
+		],
+		"css" : [
+		],
+		"menu" : [
+			{
+				"group": {
+					"label": "LeaveForm",
+					"icon": "leaveform.Default",
+					"order": "1.0"
+				},
+				"child": []
+			}
+		]
+	}
+}
